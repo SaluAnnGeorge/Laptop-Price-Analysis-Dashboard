@@ -121,7 +121,15 @@ Screen Size	Weak correlation with price (0.07) — minimal influence on cost.
 
 
 
+🧾 Conclusion
 
+Laptop prices are driven primarily by RAM, CPU, and GPU.
+
+SSD and dedicated graphics add substantial value.
+
+Brand and processor combinations strongly determine affordability.
+
+The insights can help both buyers and retailers optimize decisions.
 
 
 
